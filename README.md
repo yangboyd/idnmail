@@ -7,6 +7,8 @@ Supports Android、Windows、macOS
 
 Client based on Thunderbird
 
+Open for request for other language clients。
+
 #### Installation
 Download the app and install.
 
