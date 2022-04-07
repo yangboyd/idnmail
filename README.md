@@ -1,15 +1,20 @@
-# 中文域名邮箱
+# IDN Mail Server and Clients
 
-#### 介绍
-中文域名邮箱系统，中文域名邮箱客户端
-支持Android、Windows、macOS
+#### Introduction
+International Domain Name Email System and Clients.
 
-#### 安装教程
-运行安装包
+Supports Android、Windows、macOS
 
-#### 使用说明
+Client based on Thunderbird
 
-输入中文域名邮件地址和密码，点击继续，配置完成。
+#### Installation
+Download the app and install.
+
+#### Usage
+Run the Mail Client App.
+Input the IDN email address and password, click Continue, Done!
+
+Apply for IDN email: [https://函.中国](https://函.中国)
 
 ![输入图片说明](screenshot/fd09b7bf477d0485ae819a39ca9991e.png)
 
@@ -19,3 +24,6 @@
 
 ![输入图片说明](screenshot/image.png)
 
+Support End to End Encryption
+
+![输入图片说明](screenshot/f8bbde2471b3a26a9d7a707ff8bfb32.png)
